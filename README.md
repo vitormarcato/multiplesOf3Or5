@@ -21,7 +21,7 @@ The challenge is available on https://www.codewars.com/kata/514b92a657cdc6515000
 ### Prerequisites
 ---
 
-  - JDK17 
+  - JDK 1.8 or later version
   
 ### Building and Running
 ---
