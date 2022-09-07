@@ -18,6 +18,10 @@ The project purpose is to practice, study and improve knowledge about programmin
 
 The challenge is available on https://www.codewars.com/kata/514b92a657cdc65150000006/train/javaencoding 
 
+### Demo
+---
+<img src="https://media.giphy.com/media/YpJKuk7B3QY4ZlNDoO/giphy.gif">
+
 ### Prerequisites
 ---
 
